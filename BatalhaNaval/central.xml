@@ -1,0 +1,1435 @@
+<Gerenciamento.CentralDeInformacoes>
+  <todosOsJogadores>
+    <entry>
+      <string>thamires</string>
+      <Classes.Jogador>
+        <email>thamires@gmail.com</email>
+        <senha>123456</senha>
+        <login>thamires</login>
+        <quantidadeVitorias>0</quantidadeVitorias>
+        <quantidadeDerrotas>0</quantidadeDerrotas>
+        <pontuacao>0</pontuacao>
+        <historicoDePontos/>
+        <historicoDePartidas/>
+        <mapa>
+          <frota>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+          </frota>
+          <dimensao>
+            <linhas>5</linhas>
+            <colunas>5</colunas>
+          </dimensao>
+          <quantidadeDeNavios>10</quantidadeDeNavios>
+          <dataDeAtualizacao>2020-12-05T17:02:08.216</dataDeAtualizacao>
+        </mapa>
+        <excluido>true</excluido>
+      </Classes.Jogador>
+    </entry>
+    <entry>
+      <string>Tamires</string>
+      <Classes.Jogador>
+        <email>tamires@gmail.com</email>
+        <senha>123456</senha>
+        <login>Tamires</login>
+        <quantidadeVitorias>1</quantidadeVitorias>
+        <quantidadeDerrotas>0</quantidadeDerrotas>
+        <pontuacao>2</pontuacao>
+        <historicoDePontos>
+          <entry>
+            <string>2020-12-05T20:02:42.727</string>
+            <int>2</int>
+          </entry>
+        </historicoDePontos>
+        <historicoDePartidas>
+          <entry>
+            <string>2020-12-05T20:02:42.727</string>
+            <Classes.Partida>
+              <desafiante>
+                <email>4444@gmail.com</email>
+                <senha>123456</senha>
+                <login>4444</login>
+                <quantidadeVitorias>0</quantidadeVitorias>
+                <quantidadeDerrotas>2</quantidadeDerrotas>
+                <pontuacao>-10</pontuacao>
+                <historicoDePontos>
+                  <entry>
+                    <string>2020-12-05T20:02:42.727</string>
+                    <int>-5</int>
+                  </entry>
+                  <entry>
+                    <string>2020-12-05T20:24:11.818</string>
+                    <int>-10</int>
+                  </entry>
+                </historicoDePontos>
+                <historicoDePartidas>
+                  <entry>
+                    <string>2020-12-05T20:02:42.727</string>
+                    <Classes.Partida reference="../../../.."/>
+                  </entry>
+                  <entry>
+                    <string>2020-12-05T20:24:11.818</string>
+                    <Classes.Partida>
+                      <desafiante reference="../../../.."/>
+                      <desafiado>
+                        <email>debora@gmail.com</email>
+                        <senha>123456</senha>
+                        <login>Debora</login>
+                        <quantidadeVitorias>1</quantidadeVitorias>
+                        <quantidadeDerrotas>1</quantidadeDerrotas>
+                        <pontuacao>2</pontuacao>
+                        <historicoDePontos>
+                          <entry>
+                            <string>2020-12-05T20:24:11.818</string>
+                            <int>2</int>
+                          </entry>
+                          <entry>
+                            <string>2020-12-05T17:09:59.708</string>
+                            <int>0</int>
+                          </entry>
+                        </historicoDePontos>
+                        <historicoDePartidas>
+                          <entry>
+                            <string>2020-12-05T20:24:11.818</string>
+                            <Classes.Partida reference="../../../.."/>
+                          </entry>
+                          <entry>
+                            <string>2020-12-05T17:09:59.708</string>
+                            <Classes.Partida>
+                              <desafiante>
+                                <email>nataly.lucena@academico.ifpb.edu.br</email>
+                                <senha>1234567</senha>
+                                <login>Nataly</login>
+                                <quantidadeVitorias>1</quantidadeVitorias>
+                                <quantidadeDerrotas>0</quantidadeDerrotas>
+                                <pontuacao>10</pontuacao>
+                                <historicoDePontos>
+                                  <entry>
+                                    <string>2020-12-05T17:09:59.708</string>
+                                    <int>10</int>
+                                  </entry>
+                                </historicoDePontos>
+                                <historicoDePartidas>
+                                  <entry>
+                                    <string>2020-12-05T17:09:59.708</string>
+                                    <Classes.Partida reference="../../../.."/>
+                                  </entry>
+                                </historicoDePartidas>
+                                <mapa>
+                                  <frota>
+                                    <int-array>
+                                      <int>10</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                      <int>10</int>
+                                      <int>0</int>
+                                    </int-array>
+                                    <int-array>
+                                      <int>0</int>
+                                      <int>10</int>
+                                      <int>10</int>
+                                      <int>0</int>
+                                      <int>10</int>
+                                    </int-array>
+                                    <int-array>
+                                      <int>0</int>
+                                      <int>10</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                    </int-array>
+                                    <int-array>
+                                      <int>10</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                      <int>10</int>
+                                      <int>0</int>
+                                    </int-array>
+                                    <int-array>
+                                      <int>10</int>
+                                      <int>10</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                      <int>0</int>
+                                    </int-array>
+                                  </frota>
+                                  <dimensao>
+                                    <linhas>5</linhas>
+                                    <colunas>5</colunas>
+                                  </dimensao>
+                                  <quantidadeDeNavios>10</quantidadeDeNavios>
+                                  <dataDeAtualizacao>2020-12-05T17:19:32.342</dataDeAtualizacao>
+                                </mapa>
+                                <excluido>false</excluido>
+                              </desafiante>
+                              <desafiado reference="../../../.."/>
+                              <data>2020-12-05T17:09:59.708</data>
+                              <jogadas>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:01.033</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (0,0) e acertou a água!</descricao>
+                                  <x>0</x>
+                                  <y>0</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:01.096</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (4,0) e acertou um navio!</descricao>
+                                  <x>4</x>
+                                  <y>0</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:01.158</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (1,1) e acertou um navio!</descricao>
+                                  <x>1</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:01.222</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (3,3) e acertou a água!</descricao>
+                                  <x>3</x>
+                                  <y>3</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:02.87</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (1,1) e acertou um navio!</descricao>
+                                  <x>1</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:04.733</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (2,2) e acertou um navio!</descricao>
+                                  <x>2</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:06.138</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (3,3) e acertou a água!</descricao>
+                                  <x>3</x>
+                                  <y>3</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:06.203</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (2,4) e acertou a água!</descricao>
+                                  <x>2</x>
+                                  <y>4</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:08.25</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (3,1) e acertou um navio!</descricao>
+                                  <x>3</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:09.521</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (4,0) e acertou a água!</descricao>
+                                  <x>4</x>
+                                  <y>0</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:09.58</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (4,4) e acertou a água!</descricao>
+                                  <x>4</x>
+                                  <y>4</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:11.643</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (1,3) e acertou a água!</descricao>
+                                  <x>1</x>
+                                  <y>3</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:11.703</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (4,2) e acertou a água!</descricao>
+                                  <x>4</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:14.546</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (0,2) e acertou um navio!</descricao>
+                                  <x>0</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:15.75</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (0,1) e acertou um navio!</descricao>
+                                  <x>0</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:16.755</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (1,2) e acertou um navio!</descricao>
+                                  <x>1</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:18.504</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (2,3) e acertou a água!</descricao>
+                                  <x>2</x>
+                                  <y>3</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:18.571</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (3,2) e acertou a água!</descricao>
+                                  <x>3</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:19.544</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (0,4) e acertou a água!</descricao>
+                                  <x>0</x>
+                                  <y>4</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:19.602</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (1,0) e acertou um navio!</descricao>
+                                  <x>1</x>
+                                  <y>0</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:19.666</data>
+                                  <jogador reference="../../../../../.."/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Debora clicou na posição (1,3) e acertou a água!</descricao>
+                                  <x>1</x>
+                                  <y>3</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:20.969</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (4,1) e acertou um navio!</descricao>
+                                  <x>4</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:21.931</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (2,1) e acertou um navio!</descricao>
+                                  <x>2</x>
+                                  <y>1</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:23.557</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (3,2) e acertou um navio!</descricao>
+                                  <x>3</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                                <Classes.Jogada>
+                                  <data>2020-12-05T17:10:24.965</data>
+                                  <jogador reference="../../../desafiante"/>
+                                  <partida reference="../../.."/>
+                                  <descricao>O Jogador Nataly clicou na posição (4,2) e acertou um navio!</descricao>
+                                  <x>4</x>
+                                  <y>2</y>
+                                </Classes.Jogada>
+                              </jogadas>
+                              <finalizada>false</finalizada>
+                              <vencedor reference="../desafiante"/>
+                              <perdedor reference="../../../.."/>
+                              <mapaDesafiante>
+                                <frota>
+                                  <int-array>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                </frota>
+                                <dimensao>
+                                  <linhas>5</linhas>
+                                  <colunas>5</colunas>
+                                </dimensao>
+                                <quantidadeDeNavios>10</quantidadeDeNavios>
+                                <dataDeAtualizacao>2020-12-05T17:02:24.038</dataDeAtualizacao>
+                              </mapaDesafiante>
+                              <mapaDesafiado>
+                                <frota>
+                                  <int-array>
+                                    <int>0</int>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>0</int>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>0</int>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>0</int>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                  <int-array>
+                                    <int>0</int>
+                                    <int>10</int>
+                                    <int>10</int>
+                                    <int>0</int>
+                                    <int>0</int>
+                                  </int-array>
+                                </frota>
+                                <dimensao>
+                                  <linhas>5</linhas>
+                                  <colunas>5</colunas>
+                                </dimensao>
+                                <quantidadeDeNavios>10</quantidadeDeNavios>
+                                <dataDeAtualizacao>2020-12-05T17:02:41.823</dataDeAtualizacao>
+                              </mapaDesafiado>
+                            </Classes.Partida>
+                          </entry>
+                        </historicoDePartidas>
+                        <mapa reference="../historicoDePartidas/entry[2]/Classes.Partida/mapaDesafiado"/>
+                        <excluido>false</excluido>
+                      </desafiado>
+                      <data>2020-12-05T20:24:11.818</data>
+                      <jogadas>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:19.009</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (0,2) e acertou um navio!</descricao>
+                          <x>0</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:19.815</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (1,1) e acertou um navio!</descricao>
+                          <x>1</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:20.55</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (3,3) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:20.615</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (1,4) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:21.535</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (2,3) e acertou a água!</descricao>
+                          <x>2</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:21.589</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (0,2) e acertou a água!</descricao>
+                          <x>0</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:22.066</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (2,4) e acertou a água!</descricao>
+                          <x>2</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:22.13</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (4,4) e acertou a água!</descricao>
+                          <x>4</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:22.528</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (1,4) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:22.581</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (3,1) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:22.958</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (0,4) e acertou a água!</descricao>
+                          <x>0</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:23.015</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (2,2) e acertou a água!</descricao>
+                          <x>2</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:23.545</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (0,3) e acertou a água!</descricao>
+                          <x>0</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:23.604</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (1,3) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:24.388</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (0,0) e acertou a água!</descricao>
+                          <x>0</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:24.444</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (1,2) e acertou um navio!</descricao>
+                          <x>1</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:24.513</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (4,0) e acertou um navio!</descricao>
+                          <x>4</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:24.569</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (4,2) e acertou um navio!</descricao>
+                          <x>4</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:24.63</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (1,0) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:25.633</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (2,0) e acertou a água!</descricao>
+                          <x>2</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:25.7</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (0,1) e acertou um navio!</descricao>
+                          <x>0</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:25.762</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (2,3) e acertou um navio!</descricao>
+                          <x>2</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:25.823</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (0,3) e acertou a água!</descricao>
+                          <x>0</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:26.563</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (3,0) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:26.626</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (4,1) e acertou a água!</descricao>
+                          <x>4</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:27.194</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (4,0) e acertou a água!</descricao>
+                          <x>4</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:27.246</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (3,3) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:28.251</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (4,4) e acertou a água!</descricao>
+                          <x>4</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:28.308</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (2,1) e acertou um navio!</descricao>
+                          <x>2</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:28.37</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (0,0) e acertou um navio!</descricao>
+                          <x>0</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:28.431</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (3,4) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:28.963</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (3,4) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:29.018</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (4,3) e acertou um navio!</descricao>
+                          <x>4</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:29.081</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (0,4) e acertou um navio!</descricao>
+                          <x>0</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:29.143</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (3,0) e acertou a água!</descricao>
+                          <x>3</x>
+                          <y>0</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:29.659</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (4,3) e acertou a água!</descricao>
+                          <x>4</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:29.716</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (1,1) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:32.098</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (4,2) e acertou um navio!</descricao>
+                          <x>4</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:32.591</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (3,2) e acertou um navio!</descricao>
+                          <x>3</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:33.069</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (3,1) e acertou um navio!</descricao>
+                          <x>3</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:33.552</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (2,1) e acertou um navio!</descricao>
+                          <x>2</x>
+                          <y>1</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:34.028</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (2,2) e acertou um navio!</descricao>
+                          <x>2</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:34.483</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (1,2) e acertou um navio!</descricao>
+                          <x>1</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:34.928</data>
+                          <jogador reference="../../../../../.."/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador 4444 clicou na posição (1,3) e acertou a água!</descricao>
+                          <x>1</x>
+                          <y>3</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:34.983</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (3,2) e acertou um navio!</descricao>
+                          <x>3</x>
+                          <y>2</y>
+                        </Classes.Jogada>
+                        <Classes.Jogada>
+                          <data>2020-12-05T20:24:35.045</data>
+                          <jogador reference="../../../desafiado"/>
+                          <partida reference="../../.."/>
+                          <descricao>O Jogador Debora clicou na posição (2,4) e acertou a água!</descricao>
+                          <x>2</x>
+                          <y>4</y>
+                        </Classes.Jogada>
+                      </jogadas>
+                      <finalizada>false</finalizada>
+                      <vencedor reference="../desafiado"/>
+                      <perdedor reference="../../../.."/>
+                      <mapaDesafiante>
+                        <frota>
+                          <int-array>
+                            <int>10</int>
+                            <int>10</int>
+                            <int>0</int>
+                            <int>0</int>
+                            <int>10</int>
+                          </int-array>
+                          <int-array>
+                            <int>0</int>
+                            <int>0</int>
+                            <int>10</int>
+                            <int>0</int>
+                            <int>0</int>
+                          </int-array>
+                          <int-array>
+                            <int>0</int>
+                            <int>10</int>
+                            <int>0</int>
+                            <int>10</int>
+                            <int>0</int>
+                          </int-array>
+                          <int-array>
+                            <int>0</int>
+                            <int>0</int>
+                            <int>10</int>
+                            <int>0</int>
+                            <int>0</int>
+                          </int-array>
+                          <int-array>
+                            <int>10</int>
+                            <int>0</int>
+                            <int>10</int>
+                            <int>10</int>
+                            <int>0</int>
+                          </int-array>
+                        </frota>
+                        <dimensao>
+                          <linhas>5</linhas>
+                          <colunas>5</colunas>
+                        </dimensao>
+                        <quantidadeDeNavios>10</quantidadeDeNavios>
+                        <dataDeAtualizacao>2020-12-05T20:02:24.528</dataDeAtualizacao>
+                      </mapaDesafiante>
+                      <mapaDesafiado reference="../desafiado/historicoDePartidas/entry[2]/Classes.Partida/mapaDesafiado"/>
+                    </Classes.Partida>
+                  </entry>
+                </historicoDePartidas>
+                <mapa reference="../historicoDePartidas/entry[2]/Classes.Partida/mapaDesafiante"/>
+                <excluido>false</excluido>
+              </desafiante>
+              <desafiado reference="../../../.."/>
+              <data>2020-12-05T20:02:42.727</data>
+              <jogadas>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:44.686</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (0,1) e acertou a água!</descricao>
+                  <x>0</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:44.749</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (4,4) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:45.46</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (1,1) e acertou um navio!</descricao>
+                  <x>1</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:46.296</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (2,0) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:46.354</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (2,1) e acertou um navio!</descricao>
+                  <x>2</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:46.416</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (2,2) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:47.454</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (3,0) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:47.517</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (1,1) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:48.276</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (4,2) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:48.342</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (1,4) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:49.112</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (3,2) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:49.177</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (2,0) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:51.044</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (3,3) e acertou um navio!</descricao>
+                  <x>3</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:51.874</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (4,3) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:51.93</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (0,1) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:51.991</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (3,3) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:53.14</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (1,4) e acertou um navio!</descricao>
+                  <x>1</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:54.156</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (0,3) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:55.284</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (0,4) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:56.496</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (4,1) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:56.551</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (0,0) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:56.613</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (4,0) e acertou um navio!</descricao>
+                  <x>4</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:56.676</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (3,0) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:57.191</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (4,0) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:57.252</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (3,1) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:58.326</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (1,2) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:58.387</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (0,4) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:58.448</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (0,3) e acertou a água!</descricao>
+                  <x>0</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:59.39</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (2,3) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:02:59.444</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (1,3) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:00.438</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (4,4) e acertou um navio!</descricao>
+                  <x>4</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:01.142</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (2,4) e acertou um navio!</descricao>
+                  <x>2</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:02.212</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (2,1) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:02.278</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (4,2) e acertou um navio!</descricao>
+                  <x>4</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:02.339</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (1,0) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:02.986</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (0,0) e acertou um navio!</descricao>
+                  <x>0</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:04.004</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (0,2) e acertou a água!</descricao>
+                  <x>0</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:04.068</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (4,1) e acertou a água!</descricao>
+                  <x>4</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.114</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (1,0) e acertou a água!</descricao>
+                  <x>1</x>
+                  <y>0</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.165</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (1,2) e acertou um navio!</descricao>
+                  <x>1</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.227</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (2,4) e acertou a água!</descricao>
+                  <x>2</x>
+                  <y>4</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.777</data>
+                  <jogador reference="../../../desafiante"/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador 4444 clicou na posição (3,1) e acertou a água!</descricao>
+                  <x>3</x>
+                  <y>1</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.836</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (2,3) e acertou um navio!</descricao>
+                  <x>2</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.897</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (4,3) e acertou um navio!</descricao>
+                  <x>4</x>
+                  <y>3</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:05.958</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (3,2) e acertou um navio!</descricao>
+                  <x>3</x>
+                  <y>2</y>
+                </Classes.Jogada>
+                <Classes.Jogada>
+                  <data>2020-12-05T20:03:06.018</data>
+                  <jogador reference="../../../../../.."/>
+                  <partida reference="../../.."/>
+                  <descricao>O Jogador Tamires clicou na posição (0,2) e acertou a água!</descricao>
+                  <x>0</x>
+                  <y>2</y>
+                </Classes.Jogada>
+              </jogadas>
+              <finalizada>false</finalizada>
+              <vencedor reference="../../../.."/>
+              <perdedor reference="../desafiante"/>
+              <mapaDesafiante reference="../desafiante/historicoDePartidas/entry[2]/Classes.Partida/mapaDesafiante"/>
+              <mapaDesafiado>
+                <frota>
+                  <int-array>
+                    <int>10</int>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>10</int>
+                    <int>10</int>
+                  </int-array>
+                  <int-array>
+                    <int>0</int>
+                    <int>10</int>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>10</int>
+                  </int-array>
+                  <int-array>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>10</int>
+                    <int>0</int>
+                    <int>10</int>
+                  </int-array>
+                  <int-array>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>10</int>
+                    <int>10</int>
+                  </int-array>
+                  <int-array>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>0</int>
+                    <int>10</int>
+                  </int-array>
+                </frota>
+                <dimensao>
+                  <linhas>5</linhas>
+                  <colunas>5</colunas>
+                </dimensao>
+                <quantidadeDeNavios>10</quantidadeDeNavios>
+                <dataDeAtualizacao>2020-12-05T17:04:42.515</dataDeAtualizacao>
+              </mapaDesafiado>
+            </Classes.Partida>
+          </entry>
+        </historicoDePartidas>
+        <mapa reference="../historicoDePartidas/entry/Classes.Partida/mapaDesafiado"/>
+        <excluido>false</excluido>
+      </Classes.Jogador>
+    </entry>
+    <entry>
+      <string>11111</string>
+      <Classes.Jogador>
+        <email>natalylucena.pb@gmail.com</email>
+        <senha>123456</senha>
+        <login>11111</login>
+        <quantidadeVitorias>0</quantidadeVitorias>
+        <quantidadeDerrotas>0</quantidadeDerrotas>
+        <pontuacao>0</pontuacao>
+        <historicoDePontos/>
+        <historicoDePartidas/>
+        <mapa>
+          <frota>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+            <int-array>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+              <int>0</int>
+            </int-array>
+          </frota>
+          <dimensao>
+            <linhas>5</linhas>
+            <colunas>5</colunas>
+          </dimensao>
+          <quantidadeDeNavios>10</quantidadeDeNavios>
+          <dataDeAtualizacao>2020-12-05T19:47:32.193</dataDeAtualizacao>
+        </mapa>
+        <excluido>false</excluido>
+      </Classes.Jogador>
+    </entry>
+    <entry>
+      <string>4444</string>
+      <Classes.Jogador reference="../../entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante"/>
+    </entry>
+    <entry>
+      <string>Nataly</string>
+      <Classes.Jogador reference="../../entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida/desafiado/historicoDePartidas/entry[2]/Classes.Partida/desafiante"/>
+    </entry>
+    <entry>
+      <string>Debora</string>
+      <Classes.Jogador reference="../../entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida/desafiado"/>
+    </entry>
+  </todosOsJogadores>
+  <todasAsPartidas>
+    <Classes.Partida reference="../../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida/desafiado/historicoDePartidas/entry[2]/Classes.Partida"/>
+    <Classes.Partida reference="../../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida"/>
+    <Classes.Partida reference="../../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida"/>
+  </todasAsPartidas>
+  <desafiante reference="../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante"/>
+  <desafiado reference="../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida/desafiado"/>
+  <partidaAtual reference="../todosOsJogadores/entry[2]/Classes.Jogador/historicoDePartidas/entry/Classes.Partida/desafiante/historicoDePartidas/entry[2]/Classes.Partida"/>
+</Gerenciamento.CentralDeInformacoes>

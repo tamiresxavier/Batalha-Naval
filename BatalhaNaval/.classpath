@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="audio"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/mail.jar"/>
+	<classpathentry kind="lib" path="lib/iText-5.0.5.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="lib/smtp.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.13.jar"/>
+	<classpathentry kind="lib" path="lib/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="lib/gimap-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/jl1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/mp3spi1.9.5.jar"/>
+	<classpathentry kind="lib" path="lib/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/tritonus_share-0.3.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
